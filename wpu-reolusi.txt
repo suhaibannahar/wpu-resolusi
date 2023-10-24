@@ -1,4 +1,6 @@
 WPU resolusi 
 - Kosisten belajar web
 - Membuat web sederhana
-- Belajar bahasa pemograman    
+- Belajar bahasa pemograman 
+- Hari besok belajar JS
+- Hari minggu gak belajar
